@@ -8,7 +8,6 @@
 </a>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/79/39/df/7939df472d54342d3ed3f020f8d27c36.gif" />  
   
-### Some details about me...  
 - High school technology enthusiast
 - Self-taught developer focusing mainly on plugins for Minecraft 
 - I want to learn Elm, Haskell, and Emojicode.
