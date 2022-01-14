@@ -15,3 +15,6 @@
 - I want to learn Elm, Haskell, and Emojicode.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 - I also love playing [TypeRacer](https://typeracer.com/) and I've recently won a t-shirt in a competition!
+
+### View My TypeRacer Stats
+<img src="https://data.typeracer.com/misc/badge?user=bobby29831">
