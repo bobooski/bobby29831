@@ -18,3 +18,4 @@
 
 ### View My TypeRacer Stats
 <img src="https://data.typeracer.com/misc/badge?user=bobby29831">
+Notice my TypeRacer WPM under 100? That just means I've been playing on my MacBook recently... lol
